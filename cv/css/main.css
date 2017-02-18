@@ -195,7 +195,7 @@ html, body { width: 100%; height: 100%; color: #333; font: 400 14px/1.5 Microsof
 .footer { z-index: 96; }
 
 @media (max-width: 768px) { .title { font-size: .25rem; }
-  .page1 .tit1 { left: 0; top: 3rem; height: 1.5rem; }
+  .page1 .tit1 { left: 0; top: 2rem; height: 1.5rem; }
   .page1 .tit1 > h2 { font-size: .3rem; width: 3.8rem;}
   .page2 .tit2 { margin-top: .5rem; }
   .page2 .content { width: 3.6rem; margin-left: .03rem; }
